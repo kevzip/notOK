@@ -1,0 +1,41 @@
+1000 Junction of Life
+1001 Free
+1002 Grand Master
+1003 Free
+1004 Married Person
+1005 Growing Bud
+1006 Family Maker
+1007 Conqueror
+1008 God of the Arena
+1009 Monarch of the Arena
+1010 Emperor
+1011 Gladiator
+1012 Slayer
+1013 Avenger
+1014 Champion Brawler
+1015 Champion Tactician
+1016 Champion Beaststrafe
+1017 Champion Illusionist
+1018 Champion Legionnaire
+1019 Champion Magus
+1020 Champion Paragon
+1021 Champion Phantom
+1022 Champion Mercenary
+1023 Champion Revered
+1024 Champion Shadow
+1025 Champion Marauder
+1026 MVP
+1027 VIP
+1028 Rich Kid
+1029 Warlord
+1030 Godlike
+1031 Unstoppable
+1032 Bloodthirsty
+1033 Duelist
+1034 Combantant
+1035 Poring Mania
+1036 Back Opener
+1037 Animal Lover
+1038 Monster Girls
+1039 SVIP
+1040 VVIP

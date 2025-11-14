@@ -1,0 +1,472 @@
+new_1-1 53 114 Shion#nv1
+new_1-1 66 114 Bulletin Board#nv
+new_1-1 67 122 Guide Manager#Guide
+new_1-3 95 30 Trainer#nv1
+new_1-3 96 174 Test Examiner#nv1
+new_1-4 91 20 Bruce#nv
+new_1-4 100 29 Hanson#nv
+new_1-3 96 174 Test Examiner#nv1
+new_1-3 96 174 Test Examiner#nv1
+new_1-4 91 20 Bruce#nv
+new_1-4 91 20 Bruce#nv
+new_1-4 100 29 Hanson#nv
+new_1-4 100 29 Hanson#nv
+prt_church 179 15 Priest Praupin
+prt_church 173 23 Cleric
+prt_church 179 15 Priest Praupin
+prt_church 173 23 Cleric
+prt_church 179 15 Priest Praupin
+prt_church 173 23 Cleric
+prt_church 184 41 Cleric#aco
+prt_church 103 71 Henson#pront
+prt_church 103 76 Garnet#pront
+prontera 232 318 Peco Peco Breeder#cru
+prontera 282 208 East Gate-Guide
+prontera 282 200 Kafra Employee
+morocc 145 44 Jewel Seller#moc1
+morocc 166 51 Jewel Seller#moc2
+morocc 157 72 Butcher#moc2
+morocc 156 97 Kafra Employee
+morocc 170 101 Tool Dealer#moc3
+prt_church 184 41 Cleric#aco
+morocc 147 102 Tool Dealer#moc21
+morocc 152 110 Bulletin Board#11
+morocc 150 120 Soldier - Morocc#01
+prt_church 103 71 Henson#pront
+prt_church 103 76 Garnet#pront
+prontera 232 318 Peco Peco Breeder#cru
+morocc 151 243 Tool Dealer#moc2
+morocc 160 258 Kafra
+morocc 153 286 Guide#moc
+prontera 144 301 Mage#tu
+prt_church 184 41 Cleric#aco
+prt_church 103 71 Henson#pront
+prt_church 103 76 Garnet#pront
+prontera 232 318 Peco Peco Breeder#cru
+prontera 282 208 East Gate-Guide
+prontera 282 200 Kafra Employee
+morocc 145 44 Jewel Seller#moc1
+morocc 166 51 Jewel Seller#moc2
+morocc 157 72 Butcher#moc2
+morocc 156 97 Kafra Employee
+morocc 170 101 Tool Dealer#moc3
+morocc 147 102 Tool Dealer#moc21
+morocc 152 110 Bulletin Board#11
+morocc 150 120 Soldier - Morocc#01
+morocc 151 243 Tool Dealer#moc2
+morocc 160 258 Kafra
+morocc 153 286 Guide#moc
+prontera 29 200 West Gate-Guide
+prontera 29 207 Kafra Employee
+moc_fild07 41 355 Ascetic#2aco
+moc_fild07 41 355 Ascetic#2aco
+prontera 146 89 Kafra Employee
+prontera 146 89 Kafra Employee
+prontera 147 125 Cool Event Staff#prt
+prontera 164 125 Kafra Voting Staff#prt
+prontera 248 153 Doll Supplier#prt
+prontera 248 212 Busy Boy#prt
+prontera 220 218 Berry Toe
+prontera 248 153 Doll Supplier#prt
+prontera 248 212 Busy Boy#prt
+prt_church 97 100 Wedding Staff#w
+prt_church 102 102 Single Army#Kunlun
+prt_church 101 102 Single Army#Amatsu
+prt_church 100 102 Single Army#Payon
+prt_church 99 102 Single Army#Morocc
+prt_church 98 102 Single Army#Geffen
+prt_church 97 102 Single Army#Prontera
+prt_church 111 112 Sister Linus
+prt_church 108 124 Nun#prt
+prt_church 95 127 Crusader
+prt_church 100 128 Bishop#w
+prt_church 87 127 Pastor#1011
+prt_fild03 365 255 Ascetic#aco
+prt_church 97 100 Wedding Staff#w
+prt_church 102 102 Single Army#Kunlun
+prt_church 101 102 Single Army#Amatsu
+prt_church 100 102 Single Army#Payon
+prt_church 111 112 Sister Linus
+prt_church 108 124 Nun#prt
+prt_church 95 127 Crusader
+prt_church 100 128 Bishop#w
+prt_church 99 102 Single Army#Morocc
+prt_church 98 102 Single Army#Geffen
+prt_church 97 102 Single Army#Prontera
+prontera 282 200 Kafra Employee
+prontera 282 208 East Gate-Guide
+prt_church 97 100 Wedding Staff#w
+prt_church 102 102 Single Army#Kunlun
+prt_church 101 102 Single Army#Amatsu
+prt_church 100 102 Single Army#Payon
+prt_church 99 102 Single Army#Morocc
+prt_church 98 102 Single Army#Geffen
+prt_church 97 102 Single Army#Prontera
+prt_church 111 112 Sister Linus
+prt_church 108 124 Nun#prt
+prt_church 95 127 Crusader
+prt_church 100 128 Bishop#w
+prontera 248 212 Busy Boy#prt
+alberta 113 53 Smile Assistance#alb
+alberta 120 53 Stylish Merchant#new30
+alberta 111 59 Bulletin Board#1
+alberta 113 60 Kafra Employee
+alberta 120 60 Guide#2alb
+alberta 113 53 Smile Assistance#alb
+alberta 114 70 Cool Event Staff#alb
+alberta 120 53 Stylish Merchant#new30
+alberta 119 70 Kafra Voting Staff#alb
+alberta 111 59 Bulletin Board#1
+alberta 113 60 Kafra Employee
+alberta 120 60 Guide#2alb
+alberta 113 53 Smile Assistance#alb
+alberta 114 70 Cool Event Staff#alb
+alberta 120 53 Stylish Merchant#new30
+alberta 119 70 Kafra Voting Staff#alb
+alberta 111 59 Bulletin Board#1
+alberta 113 60 Kafra Employee
+alberta 120 60 Guide#2alb
+alberta 114 70 Cool Event Staff#alb
+alberta 119 70 Kafra Voting Staff#alb
+alberta 97 51 Fabian
+alberta 91 70 Kinsey#tur
+alberta 58 80 Shakir
+alberta 97 51 Fabian
+alberta 97 51 Fabian
+alberta 91 70 Kinsey#tur
+alberta 91 70 Kinsey#tur
+alberta 58 80 Shakir
+alberta 58 80 Shakir
+alberta 45 106 Little Boy#ep3_2
+alberta 45 106 Little Boy#ep3_2
+alberta 45 106 Little Boy#ep3_2
+alberta 62 156 Sonya
+alberta 62 156 Sonya
+alberta 62 156 Sonya
+alberta 28 229 Kafra Employee
+alberta 28 229 Kafra Employee
+alberta 26 229 Kafra Employee#bunny
+alberta 26 229 Kafra Employee#bunny
+alberta 26 229 Kafra Employee#bunny
+alberta 23 238 Guide#alb
+alberta 23 238 Guide#alb
+alberta 23 238 Guide#alb
+pay_fild06 228 219 A r v y
+pay_fild06 266 242 Roda Frog
+pay_fild06 259 243 Lunatic
+pay_fild06 247 252 Lunatic
+pay_fild06 249 245 Spore
+pay_fild03 302 34 Lunatic
+pay_fild03 316 31 Poring
+pay_fild03 310 31 Poring
+pay_fild06 244 233 Creamy
+pay_fild06 219 232 Roda Frog
+payo2 100 116 Kafra Employee#oldpay
+payo2 97 116 Kafra Employee
+payo2 112 118 Neko Neko#1
+payo2 134 120 Deothen
+payo2 163 142 Jim's Mother#oldpay
+payo2 163 139 Lady#oldpay
+payo2 166 140 Woman#oldpay
+payo2 78 122 Tool Dealer#pay1
+payo2 97 132 Jade#pay
+payo2 143 130 KenDra03
+payo2 110 115 HW960KR
+payo2 103 108 Memento Mori
+payo2 104 110 Pupperr
+payo2 105 115 KAID0
+payo2 97 118 Tyranis
+payo2 116 110 Kyori Umehara
+payo2 90 114 kreizie
+payo2 99 118 luttie
+payo2 95 113 D S K - unlirice
+payo2 93 111 Giana
+payo2 94 102 Uakie
+payo2 96 108 Inside0ut
+payo2 93 108 BahogTaler
+payo2 81 123 Critism
+payo2 101 111 Zenn
+payo2 83 113 BuhokSaButasNgPwet
+payo2 94 117 tekillaaah
+payo2 89 119 /-\POLLO[Support]
+payo2 94 114 Vshor
+payo2 89 113 J N S Y
+payo2 84 122 Yengzkie
+payo2 90 101 [KINGS]Deymboys
+payo2 88 112 Fyre
+payo2 100 98 Pilimon
+payo2 83 101 Paring Gee
+payo2 86 118 Wapple
+payo2 84 109 Bini Maoi
+payo2 87 114 Melinoe
+payo2 83 111 Pemmm
+payo2 85 105 ChenXPriest
+payo2 87 108 FURION
+payo2 85 120 Nunuuu
+payo2 88 110 keep the fire stoked
+payo2 83 105 Jakolero
+payo2 86 114 C.H.U
+payo2 84 108 JulianZeb
+payo2 87 107 iamgroot
+payo2 98 125 Jaah
+payo2 99 106 g0dDeYm
+payo2 85 109 -=YHVH=-
+payo2 89 111 Pilimon
+payo2 86 102 Kawi
+payo2 88 114 ELFREAK
+payo2 81 120 `Snatcher ng Prontera
+payo2 105 107 KINGSLAYER
+payo2 81 106 D u k e
+payo2 83 102 Redbird
+payo2 83 108 SweetCakes
+payo2 94 126 Nunuuu
+payo2 85 121 [FS] Nevs
+payo2 86 112 KazokuDad
+payo2 84 106 Embryo
+payo2 82 104 `Mac
+payo2 99 108 KazokuDad
+payo2 86 111 Awdeezy
+payo2 111 116 HW960KR
+payo2 96 107 Korn
+payo2 88 109 Vshor
+payo2 96 110 vegetta
+payo2 104 103 m4gicalweed
+payo2 87 119 Decipher
+payo2 93 122 -Dex
+payo2 95 112 Tulumeski
+payo2 82 105 Ashiya Mizuki
+payo2 87 106 Kairo
+payo2 94 111 Sags
+payo2 93 104 Tutay
+payo2 89 129 Bini Rah
+payo2 88 99 kutekiarimoto
+payo2 89 105 Raiin
+payo2 87 101 LadyRose
+payo2 87 99 Midnight
+payo2 90 115 DefensiveBias
+payo2 98 108 Raiin
+payo2 82 117 xD0s
+payo2 89 108 Temptation
+payo2 90 111 Lyralei
+payo2 91 110 Lyralei
+payo2 83 123 SayPlease
+payo2 89 122 Vshor
+payo2 85 117 Chuko
+payo2 104 109 Ashiya Mizuki
+payo2 87 115 Bini Rah
+payo2 117 119 Tyranis
+payo2 97 122 RumaragasangButete
+payo2 117 111 Kyori Umehara
+payo2 89 101 Sins
+payo2 89 98 g0dDeYm
+payo2 82 125 KAID0
+payo2 92 111 Kawi
+payo2 109 106 KINGSLAYER
+payo2 103 117 Wapple
+payo2 104 115 Jaah
+payo2 81 108 kreizie
+pay_arche 79 31 Bulletin Board#07
+pay_arche 85 30 Guide#2pay
+pay_arche 79 31 Bulletin Board#07
+pay_arche 85 30 Guide#2pay
+pay_arche 79 31 Bulletin Board#07
+pay_arche 85 30 Guide#2pay
+pay_arche 55 123 Kafra Employee
+pay_arche 55 123 Kafra Employee
+pay_arche 55 123 Kafra Employee
+pay_arche 39 134 Bulletin Board#08
+pay_arche 39 134 Bulletin Board#08
+pay_arche 39 134 Bulletin Board#08
+payo2 142 104 Pet Merchant
+payo2 142 104 Pet Merchant
+payo2 29 116 Young Man#1oldpay
+payo2 21 158 Talpiz#BLS
+payo2 21 158 Talpiz#BLS
+pay_gld 208 268 Bamboo Grove Hill#1-2
+pay_gld 199 268 Bamboo Grove Hill#2
+pay_gld 190 277 Bamboo Grove Hill#3
+pay_gld 187 294 Bamboo Grove Hill#4
+pay_gld 208 268 Bamboo Grove Hill#1-2
+pay_gld 199 268 Bamboo Grove Hill#2
+pay_gld 190 277 Bamboo Grove Hill#3
+pay_gld 187 294 Bamboo Grove Hill#4
+pay_gld 125 236 Bright Arbor#1-2
+pay_gld 116 233 Bright Arbor#3
+pay_gld 110 233 Bright Arbor#2
+pay_gld 125 236 Bright Arbor#1-2
+pay_gld 116 233 Bright Arbor#3
+pay_gld 110 233 Bright Arbor#2
+alberta_in 32 142 Inn Employee#Jennie
+alberta_in 22 146 PVP Narrator#pe2
+alberta_in 26 146 Gate Keeper#gke2
+alberta_in 28 145 Grampa
+alberta 93 174 Grandmother Alma
+alberta_in 173 76 Monster Tamer#alb
+alberta_in 175 97 Weapon Dealer#alb2
+alberta 93 174 Grandmother Alma
+alberta_in 182 97 Tool Dealer#alb2
+alberta 93 174 Grandmother Alma
+alberta_in 173 76 Monster Tamer#alb
+alberta_in 182 97 Tool Dealer#alb2
+alberta_in 175 97 Weapon Dealer#alb2
+alberta_in 173 76 Monster Tamer#alb
+alberta_in 182 97 Tool Dealer#alb2
+alberta_in 175 97 Weapon Dealer#alb2
+alberta 118 160 Bullet Dealer Tony#alb
+prontera 148 49 Bulletin Board#09
+prontera 151 29 Kafra Employee
+prontera 160 29 South Gate-Guide
+prontera 148 49 Bulletin Board#09
+prontera 148 49 Bulletin Board#09
+prontera 106 116 Merideth#pront
+prontera 123 102 Merchant#pron
+prontera 123 102 Merchant#pron
+prontera 106 116 Merideth#pront
+prontera 73 134 Milk Merchant#p
+prontera 106 116 Merideth#pront
+prontera 78 150 Dairenne#pront
+prontera 73 140 Milk Vendor
+prontera 58 182 Flower Girl#prt
+prontera 73 134 Milk Merchant#p
+prontera 78 150 Dairenne#pront
+prontera 73 140 Milk Vendor
+prontera 78 150 Dairenne#pront
+prontera 73 134 Milk Merchant#p
+prontera 73 140 Milk Vendor
+prontera 58 182 Flower Girl#prt
+prontera 58 182 Flower Girl#prt
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+prt_fild05 290 224 Kafra Employee
+prt_fild05 290 224 Kafra Employee
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 270 212 Culvert Guardian
+prontera 143 203 Fadhgridh#15
+prontera 143 203 Fadhgridh#15
+prontera 146 194 Swanhild#17
+prontera 146 194 Swanhild#17
+prontera 149 202 YuNa#pront
+prontera 149 202 YuNa#pront
+prontera 154 187 Guide#prt
+prontera 154 187 Guide#prt
+prontera 155 190 Kriemhild#15
+prontera 155 190 Kriemhild#15
+prontera 157 187 Smile Assistance#prt
+prontera 157 187 Smile Assistance#prt
+prontera 165 194 Gondul#13
+prontera 165 194 Gondul#13
+prontera 167 203 Skoegul#15
+prontera 167 203 Skoegul#15
+prontera 218 211 Pet Groomer#prt
+prontera 218 211 Pet Groomer#prt
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 132 38 Bard#2
+geffen 111 48 Stacey
+geffen 173 88 Merchant#geff
+geffen 178 72 Akkie#qsk_bs
+geffen 181 114 Aure Dupon#cm
+geffen 193 152 Pet Groomer#gef
+geffen 156 190 Orwalk
+geffen 123 197 Kafra Employee
+prontera 218 218 Pet Enthusiast
+alberta 83 96 Necko
+alberta 117 135 Elin
+geffen 203 146 Citizen
+geffen 203 123 Kafra Employee
+geffen 203 116 Guide#gef
+alberta 117 135 Elin
+morocc 134 111 Bard#3
+morocc 132 111 Little Girl#Jorti
+alberta 53 39 Steiner
+payo2 89 141 King Poring
+morocc 223 102 Volunteer - Morocc#06
+morocc 226 102 Volunteer - Morocc#07
+morocc 244 134 Trader#moc2
+morocc 269 167 Pet Merchant#moc1
+morocc 206 250 Tool Dealer#moc4
+morocc 180 259 Merchant#Morocc
+prontera 105 87 Gift Merchant#prt
+gef_fild13 302 87 Mersetzdeitz#1-2
+gef_fild13 263 117 Repairman#gef_fild
+gef_fild13 199 274 Bergel#2
+gef_fild13 290 243 Eeyorbriggar#3
+gef_fild13 144 235 Yesnelph#5
+gef_fild13 87 182 Yesnelph#2
+gef_fild13 78 182 Yesnelph#1-2
+gef_fild13 190 283 Bergel#1-2
+gef_fild13 212 79 Repherion#3
+gef_fild13 211 71 Repherion#4
+gef_fild13 144 244 Yesnelph#6
+gef_fild13 313 83 Mersetzdeitz#2
+gef_fild13 113 274 Yesnelph#4
+gef_fild13 297 242 Soldier#277
+gef_fild13 303 243 Eeyorbriggar#1-2
+gef_fild13 312 243 Eeyorbriggar#2
+gef_fild13 324 243 Eeyorbriggar#4
+gef_fild13 155 54 Repherion#2
+gef_fild13 252 51 Mersetzdeitz#3
+gef_fild13 29 206 Bulletin Board
+gef_fild13 148 51 Repherion#1-2
+gef_fild13 202 31 Bulletin Board#orc1
+gef_fild13 73 295 Yesnelph#3
+morocc 268 193 Trader#moc4
+morocc 259 193 Trader#moc3
+morocc 202 244 Volunteer - Morocc#01
+geffen 118 62 Guide#2gef
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+geffen 42 112 Kafra Employee
+geffen 67 87 Ipore#1
+geffen 118 62 Guide#2gef
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+geffen 122 77 Nia#yagu
+geffen 118 62 Guide#2gef
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+morocc 273 79 Educated Traveller
+gefg_cas02 65 130 Eeyorbriggar#5-2
+gefg_cas03 122 229 Yesnelph#8
+gefg_cas03 122 220 Yesnelph#7-2
+gefg_cas03 91 257 Yesnelph#9
+gefg_cas04 24 157 Bergel#3-2
+payo2 85 118 *~ Poporing ~*
+payo2 85 122 *~ Poporing ~*
+payo2 92 108 *~ Poporing ~*
+payo2 92 105 *~ Poporing ~*
+payo2 91 102 *~ Poporing ~*
+payo2 91 105 *~ Poporing ~*
+payo2 94 120 *~ Poporing ~*
+payo2 95 117 *~ Poporing ~*
+payo2 98 102 *~ Poporing ~*
+payo2 100 102 *~ Poporing ~*
+payo2 91 104 *~ Poporing ~*
+payo2 87 111 *~ Poporing ~*
+payo2 87 113 *~ Poporing ~*
+payo2 84 110 *~ Poporing ~*
+payo2 92 106 *~ Poporing ~*
+payo2 88 115 *~ Poporing ~*
+payo2 92 121 *~ Poporing ~*
+payo2 75 155 Bamboo Grove Hill#f5-OP
+payo2 82 155 Scarlet Palace#f2-OP
+payo2 89 155 Bright Arbor#f1-OP
+payo2 97 155 Holy Shadow#f3-OP
+payo2 92 129 *~ Poporing ~*
+prontera 104 49 Fruit Gardener#prt
+prontera 113 42 Flower Lady#prt
+geffen_in 74 144 Trader#gef
+geffen_in 77 167 Tool Dealer#gef
+geffen_in 77 173 Magical Item Seller#gef
+prontera 160 133 YuPi#pront
+prt_in 172 132 Armor Dealer#prt
+prt_in 172 130 Weapon Dealer#prt
+prt_in 171 140 Weapon Dealer#prt3
+prontera 165 232 Nephia#1
+prt_in 126 76 Tool Dealer#prt1
